@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 .env
-poetry.lock
 venv/
 *.pth
+*.log
+*.bin
+*.safetensors
